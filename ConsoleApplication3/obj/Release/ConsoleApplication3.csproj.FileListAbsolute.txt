@@ -1,0 +1,6 @@
+E:\projects\RuESO Helper\ConsoleApplication3\bin\Release\rueso_helper.exe.config
+E:\projects\RuESO Helper\ConsoleApplication3\bin\Release\rueso_helper.exe
+E:\projects\RuESO Helper\ConsoleApplication3\bin\Release\rueso_helper.pdb
+E:\projects\RuESO Helper\ConsoleApplication3\obj\Release\rueso_helper.exe
+E:\projects\RuESO Helper\ConsoleApplication3\obj\Release\rueso_helper.pdb
+E:\projects\RuESO Helper\ConsoleApplication3\obj\Release\ConsoleApplication3.csprojResolveAssemblyReference.cache

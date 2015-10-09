@@ -1,0 +1,12 @@
+E:\projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\rueso_helper.exe.config
+E:\projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\rueso_helper.exe
+E:\projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\rueso_helper.pdb
+E:\projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\rueso_helper.exe
+E:\projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\rueso_helper.pdb
+E:\projects\RuESO Helper\ConsoleApplication3\bin\Debug\rueso_helper.exe.config
+E:\projects\RuESO Helper\ConsoleApplication3\obj\Debug\rueso_helper.exe
+E:\projects\RuESO Helper\ConsoleApplication3\obj\Debug\rueso_helper.pdb
+E:\projects\RuESO Helper\ConsoleApplication3\bin\Debug\rueso_helper.exe
+E:\projects\RuESO Helper\ConsoleApplication3\bin\Debug\rueso_helper.pdb
+E:\projects\RuESO Helper\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
